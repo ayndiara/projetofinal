@@ -18,10 +18,17 @@ Tabela de conteúdos
 <b><i> Quem é Ayndiara</b></em>
 
 IMAGEM 
+<<<<<<< HEAD
 [cabelo solto, e vestido da cor preta](https://github.com/ayndiara/projetofinal/blob/master/meu-projeto-final/src/assets/img/euayndiara.jpeg)
 
 
 Olá, eu sou Ayndiara Miranda! 👋
+=======
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".../assets/euayndiara.jpeg" />
+</h1>
+![cabelo solto, e vestido da cor preta](https://github.com/ayndiara/projetofinal/blob/70f3eb6c562d0b7f10ed906991fc38b835a5718b/meu-projeto-final/src/assets/img/euayndiara.jpe
+>>>>>>> 7542b50e777fe3766bcb3db905d4e407f5f69fd8
 Olá, eu sou Ayndiara Miranda! 👋
 
 Sou de Feira de Santana, Bahia. Em agosto de 2022, realizei um dos meus maiores sonhos ao me formar em Direito. Atualmente, estou em transição de carreira. Sou apaixonada por séries coreanas.
