@@ -29,7 +29,7 @@ Sou de Feira de Santana, Bahia. Em agosto de 2022, realizei um dos meus maiores 
 
 * Entre em contato
 
-##  `Tecnologias que utilizei` // ADD OU MODIFICAR ALGUMAS TECNOLOGIAS  
+##  `Tecnologias que utilizei`  
 
 | Ferramenta | Descrição |
 
