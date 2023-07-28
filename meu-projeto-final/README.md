@@ -18,9 +18,10 @@ Tabela de conteúdos
 <b><i> Quem é Ayndiara</b></em>
 
 IMAGEM 
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
-</h1>
+[cabelo solto, e vestido da cor preta](https://github.com/ayndiara/projetofinal/blob/master/meu-projeto-final/src/assets/img/euayndiara.jpeg)
+
+
+Olá, eu sou Ayndiara Miranda! 👋
 Olá, eu sou Ayndiara Miranda! 👋
 
 Sou de Feira de Santana, Bahia. Em agosto de 2022, realizei um dos meus maiores sonhos ao me formar em Direito. Atualmente, estou em transição de carreira. Sou apaixonada por séries coreanas.
