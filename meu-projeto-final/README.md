@@ -1,36 +1,36 @@
-# Personal Portfolio Website in React
+<h1 align="center">Jusdi, impulsionadora de carreira de advogadas negras</h1>
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+</h1>
+<p align="center">🚀 O objetivo  da plataforma é fomentar e apoiar a contratação de advogadas negras e periféricas por empresas e escritórios de advocacia. Nesse sentido, serão exibidas vagas, para proporcionar oportunidades para essas profissionais </p>
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [1. React](# 1. React)
+   * [userState](# userState)
+   * [userEffect](# userEffect)
+   * [HTML](#HTML)
+   * [CSS](#CSS)
+* [JavaScript](# JavaScript)
+   * [Tecnologias](#tecnologias)
+<!--te-->
+<h1 align="center">Apresentação</h1>
+<b><i> Quem é Ayndiara</b></em>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+IMAGEM 
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+</h1>
+Olá, eu sou Ayndiara Miranda! 👋
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+Sou de Feira de Santana, Bahia. Em agosto de 2022, realizei um dos meus maiores sonhos ao me formar em Direito. Atualmente, estou em transição de carreira. Sou apaixonada por séries coreanas.
 
-Built using:
+📫 Como entrar em contato:
+•	LinkedIn: Ayndiara Miranda
+•	GitHub: github.com/ayndiara
+•	E-mail: seuemail@email.com
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+Sinta-se à vontade para explorar meus projetos no GitHub e entrar em contato comigo através do LinkedIn ou e-mail. Estou sempre aberta a novas oportunidades de colaboração e aprendizado!
 
-In the /personal-portfolio, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
