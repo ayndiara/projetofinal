@@ -21,6 +21,7 @@ IMAGEM
 <h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src=".../assets/euayndiara.jpeg" />
 </h1>
+![cabelo solto, e vestido da cor preta](https://github.com/ayndiara/projetofinal/blob/70f3eb6c562d0b7f10ed906991fc38b835a5718b/meu-projeto-final/src/assets/img/euayndiara.jpe
 Olá, eu sou Ayndiara Miranda! 👋
 
 Sou de Feira de Santana, Bahia. Em agosto de 2022, realizei um dos meus maiores sonhos ao me formar em Direito. Atualmente, estou em transição de carreira. Sou apaixonada por séries coreanas.
