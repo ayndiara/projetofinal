@@ -17,13 +17,10 @@ Tabela de conteúdos
 <h1 align="center">Apresentação</h1>
 <b><i> Quem é Ayndiara</b></em>
 
-IMAGEM 
-<<<<<<< HEAD
-[cabelo solto, e vestido da cor preta](https://github.com/ayndiara/projetofinal/blob/master/meu-projeto-final/src/assets/img/euayndiara.jpeg)
 
 
 Olá, eu sou Ayndiara Miranda! 👋
-=======
+
 <h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src=".../assets/euayndiara.jpeg" />
 </h1>
