@@ -19,7 +19,7 @@ Tabela de conteúdos
 
 IMAGEM 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/euayndiara.jpeg" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".../assets/euayndiara.jpeg" />
 </h1>
 Olá, eu sou Ayndiara Miranda! 👋
 
