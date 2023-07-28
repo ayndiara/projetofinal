@@ -37,7 +37,7 @@ Sou de Feira de Santana, Bahia. Em agosto de 2022, realizei um dos meus maiores 
 
 | `npm` | Gerenciador de pacotes |
 
-| `Animação CSS` | Ferramenta para ter mais produtividade ao estilizar a aplicação |
+| `Animação CSS` | aplicação para estilizar e animações  |
 
 | `React router dom` | Dependência para criar rotas no reactjs |
 
