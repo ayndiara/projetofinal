@@ -4,7 +4,7 @@ O objetivo  da plataforma é fomentar e apoiar a contratação de advogadas negr
 
 ## Apresentação
 
-### Olá, eu sou Ayndiara Miranda? 
+### Olá, eu sou Ayndiara Miranda
 
 
 ![euayndiara](https://github.com/ayndiara/projetofinal/assets/116220347/816f8a7a-337f-4bc5-b0f0-f31bd9269fd9)
